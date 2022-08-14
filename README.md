@@ -1,8 +1,8 @@
 # [클론코딩] naverblog_clonecoding
 
 ![naver](https://user-images.githubusercontent.com/104907318/184524486-1ce8d4a2-a00a-4d00-b3bd-f7ec5d8aabd5.png)
-**요약** :
 
+**요약** :
 
 - 네이버 블로그 홈페이지 클론코딩
 
